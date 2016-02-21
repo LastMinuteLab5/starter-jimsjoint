@@ -1,3 +1,17 @@
+############
+Contributors
+############
+
+Gaston Beaucage
+George
+
+############
+Coding Style
+############
+
+Allman
+
+
 ###############
 Fall2015 lab 04
 ###############
